@@ -117,7 +117,7 @@ catboost_info/
 artifacts/
 # Rope project settings
 .ropeproject
-
+.app
 node_modules/
 
 # mkdocs documentation
